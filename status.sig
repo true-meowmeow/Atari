@@ -1,6 +1,1 @@
-{
-  "schema": 1,
-  "allowed": [
-    "69384d3aa4e2fda148cf45f6d220d153"
-  ]
-}
+KQlMLLGHFPsCTook5eJQ3sGnxs4TAKfSix4RIVYqMG6BuetR9ghUXPap+OWvfnKhg9lwpam2JWMXQxeIkCLDAQ==
